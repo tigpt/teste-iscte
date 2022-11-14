@@ -24,7 +24,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ISCTE DEMO BLOG
-  description: "This is a demo blog"
+  description: "This is ISCTE demo blog"
   keywords: [demo, blog]
   author: "Your Name Here"
   # author: ["Me", "You"] # multiple authors
@@ -80,8 +80,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello World \U0001F44B"
-    Content: "This is a demo blog, powered by [Hugo](https://gohugo.io/), play with it and build the future!"
+    Title: "Hello ISCTE \U0001F44B"
+    Content: "This is a demo blog made at ISCTE with AWS Amplify and [Hugo](https://gohugo.io/)"
 
   socialIcons:
     - name: github
